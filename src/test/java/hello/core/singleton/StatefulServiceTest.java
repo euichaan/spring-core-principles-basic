@@ -33,5 +33,4 @@ class StatefulServiceTest {
 			return new StatefulService();
 		}
 	}
-
 }
